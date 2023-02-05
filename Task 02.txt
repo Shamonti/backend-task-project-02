@@ -4,6 +4,6 @@
 4. Deduct one credit each time a filter is used.
 5. Use "Select All" to check all checkboxes and 
 
-
+- Time limit: 3Hours
 
 
