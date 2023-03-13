@@ -2,7 +2,7 @@
 2. Deduct one credit each time "access email" button is clicked
 3. Deduct one credit and download data as csv each time a checkbox is selected and "Download Selected Data" button is clicked
 4. Deduct one credit each time a filter is used.
-5. Use "Select All" to check all checkboxes and 
+5. Use "Select All" to check all checkboxes and download data as csv when "Download Selected Data" button is clicked
 
 - Time limit: 3Hours
 
